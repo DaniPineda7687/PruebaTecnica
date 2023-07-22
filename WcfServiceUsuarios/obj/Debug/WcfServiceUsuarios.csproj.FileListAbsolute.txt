@@ -1,0 +1,15 @@
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\WcfServiceUsuarios.dll.config
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\WcfServiceUsuarios.dll
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\WcfServiceUsuarios.pdb
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\DataUsuarios.dll
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\EntityFramework.dll
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\DataUsuarios.pdb
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\DataUsuarios.dll.config
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\EntityFramework.xml
+D:\WebUsuarios\WcfServiceUsuarios\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebUsuarios\WcfServiceUsuarios\obj\Debug\WcfServiceUsuarios.csproj.AssemblyReference.cache
+D:\WebUsuarios\WcfServiceUsuarios\obj\Debug\WcfServiceUsuarios.csproj.CoreCompileInputs.cache
+D:\WebUsuarios\WcfServiceUsuarios\obj\Debug\WcfServiceUsuarios.csproj.CopyComplete
+D:\WebUsuarios\WcfServiceUsuarios\obj\Debug\WcfServiceUsuarios.dll
+D:\WebUsuarios\WcfServiceUsuarios\obj\Debug\WcfServiceUsuarios.pdb

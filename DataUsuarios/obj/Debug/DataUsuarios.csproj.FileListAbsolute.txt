@@ -1,0 +1,12 @@
+D:\WebUsuarios\DataUsuarios\bin\Debug\DataUsuarios.dll.config
+D:\WebUsuarios\DataUsuarios\bin\Debug\DataUsuarios.dll
+D:\WebUsuarios\DataUsuarios\bin\Debug\DataUsuarios.pdb
+D:\WebUsuarios\DataUsuarios\bin\Debug\EntityFramework.dll
+D:\WebUsuarios\DataUsuarios\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebUsuarios\DataUsuarios\bin\Debug\EntityFramework.xml
+D:\WebUsuarios\DataUsuarios\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebUsuarios\DataUsuarios\obj\Debug\DataUsuarios.csproj.AssemblyReference.cache
+D:\WebUsuarios\DataUsuarios\obj\Debug\DataUsuarios.csproj.CoreCompileInputs.cache
+D:\WebUsuarios\DataUsuarios\obj\Debug\DataUsuarios.csproj.CopyComplete
+D:\WebUsuarios\DataUsuarios\obj\Debug\DataUsuarios.dll
+D:\WebUsuarios\DataUsuarios\obj\Debug\DataUsuarios.pdb
